@@ -159,6 +159,7 @@ Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://tw
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 Nadduli Dan - [Github](https://github.com/nadduli) / [Twitter](https://twitter.com/sethdannyz)
+Bahakae Precious Solomon - [Github] (https://github.com/Precious-B) / [Twitter] (https://twitter.com/Precious04085)
 
 Second part of Airbnb: Joann Vuong
 ## License
